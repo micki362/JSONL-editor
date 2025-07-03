@@ -31,4 +31,26 @@ This editor is optimized for a specific JSONL structure where each line is a JSO
 {"instruction": "Translate the following English text to French.", "input": "Hello, world!", "output": "Bonjour, le monde!"}
 {"instruction": "Summarize the following text.", "input": "The quick brown fox jumps over the lazy dog. This sentence is famous because it contains all the letters of the English alphabet.", "output": "The provided text is a well-known pangram."}
 {"instruction": "Generate a list of three popular dog breeds.", "input": "", "output": "1. Labrador Retriever\n2. German Shepherd\n3. Golden Retriever"}
+```
+
+### Getting Started
+
+There are two ways to use this application:
+
+#### 1\. Pre-built Application (Windows)
+
+For the easiest use, a pre-built executable is available. No installation is required.
+
+1.  Go to the dist folder.
+    
+2.  Run **jsonl\_editor.exe**.
+    
+
+#### 2\. Running from Source
+
+If you have Python 3 installed, you can run the editor directly.
+
+1.  Clone or download the repository.
+    
+2.  Generated bashpython jsonl\_editor.pycontent\_copydownload
 
